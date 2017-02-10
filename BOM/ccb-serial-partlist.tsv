@@ -1,0 +1,64 @@
+Partlist										
+										
+Exported from CBB-Serial-r02.sch at 5/29/2016 3:23 PM										
+										
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft										
+										
+Assembly variant:										
+										
+Part	Value	Device	Package	Library	Sheet	Manufacturer	Manufacturer Part Number	Vendor	Vendor Part Number	Link
+BB1	BBH2	BBH2	BB_CAPE_TOP	logic-supply	1					
+C1	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C2	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C3	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C4	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C5	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C6	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C7	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C8	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C9	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C10	4.7uF	C-USC0805	C0805	rcl	1	Murata	GRM21BR61H475KE51L	Digi-Key	490-10751-1-ND	https://www.digikey.com/product-search/en/capacitors/ceramic-capacitors/131083?k=capacitor&k=&pkeyword=capacitor&s=5390&FV=fffc01ea%2C1c0002%2C380020%2C400006%2Cfff40002%2Cfff8000b%2C3400b0&mnonly=0&newproducts=0&ColumnSort=1000011&page=1&stock=1&quantity=0&ptm=0&fid=0&pageSize=25
+C11	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C12	4.7uF	C-USC0805	C0805	rcl	1	Murata	GRM21BR61H475KE51L	Digi-Key	490-10751-1-ND	https://www.digikey.com/product-search/en/capacitors/ceramic-capacitors/131083?k=capacitor&k=&pkeyword=capacitor&s=5390&FV=fffc01ea%2C1c0002%2C380020%2C400006%2Cfff40002%2Cfff8000b%2C3400b0&mnonly=0&newproducts=0&ColumnSort=1000011&page=1&stock=1&quantity=0&ptm=0&fid=0&pageSize=25
+C13	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C14	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C15	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+C16	0.1uF	C-USC0603	C0603	rcl	1	Murata	GRM188R71H104KA93D	Digi-Key	490-1519-1-ND	https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R71H104KA93D/490-1519-1-ND/587854
+IC1	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC2	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC3	MAX3232CUE	MAX3232CUE	TSSOP16	logic-supply	1	Maxim	MAX3232EUE+	Digi-Key	MAX3232EUE+-ND	https://www.digikey.com/product-detail/en/maxim-integrated/MAX3232EUE-/MAX3232EUE--ND/1513085
+IC4	MAX3232CUE	MAX3232CUE	TSSOP16	logic-supply	1	Maxim	MAX3232EUE+	Digi-Key	MAX3232EUE+-ND	https://www.digikey.com/product-detail/en/maxim-integrated/MAX3232EUE-/MAX3232EUE--ND/1513085
+IC5	MAX485CSA	MAX485CSA	SO08	logic-supply	1	Maxim	MAX485ESA+T	Digi-Key	MAX485ESA+TCT-ND	https://www.digikey.com/product-detail/en/maxim-integrated/MAX485ESA-T/MAX485ESA-TCT-ND/3647897
+IC6	ISO1050DW	ISO1050DW	SO16W	logic-supply	1	Texas Instruments	ISO1050DWR	Digi-Key	296-41267-1-ND	https://www.digikey.com/product-detail/en/texas-instruments/ISO1050DWR/296-41267-1-ND/5222731
+IC7	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC8	EEPROM-I2CSMD	EEPROM-I2CSMD	SO08	logic-supply	1	On Semi	CAT24C256WI-GT3	Digi-Key	CAT24C256WI-GT3OSCT-ND	https://www.digikey.com/product-search/en?keywords=CAT24C256WI-GT3OSCT-ND
+IC10	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC11	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC12	SN74AHC1G126DCK	SN74AHC1G126DCK	DCK-R-PDSO-G5	logic-supply	1	Texas Instruments	SN74AHC1G126DCKR	Digi-Key	296-8747-1-ND	https://www.digikey.com/product-search/en?keywords=296-8747-1-ND
+IC13	DC-DC-ISOLATED_SMD	DC-DC-ISOLATED_SMD	DC-DC-SMD	logic-supply	1	MINMAX	MSLU102	???	???	???
+J1	RS232-DBNB01-9M	RS232-DBNB01-9M	DB9-DBNB01-9M	logic-supply	1	Panstrong	DBNB01-9M-2	???	???	???
+J2	RS232-IDC10-RA-DTK-INTEL	RS232-IDC10-RA-DTK-INTEL	HEADER_2X5-SHROUDED-RA	logic-supply	1	3M	30310-5002HB	Digi-Key	3M15452-ND	http://www.digikey.com/products/en?keywords=3M15452-ND
+J3	SCREWTERM_9PIN_2-54	SCREWTERM_9PIN_2-54	SCREWTERM_1725724_9	logic-supply	1	Phoenix Contact	1725724	Digi-Key	277-1280-ND	https://www.digikey.com/product-search/en?keywords=1725724
+J4	HEADER_1X2	HEADER_1X2	HEADER_1X2	logic-supply	1	3M	961102-6404-AR	Digi-Key	3M9447-ND	http://www.digikey.com/products/en?keywords=3M9447-ND
+J5	PINHD-2X4	PINHD-2X4	HEADER_2X4	logic-supply	1	3M	961208-6404-AR	Digi-Key	961208-6404-AR-ND	http://www.digikey.com/products/en?keywords=961208-6404-AR-ND
+J6	HEADER_1X2_RA	HEADER_1X2_RA	HEADER_1X2_RA	logic-supply	1	3M	961102-5604-AR	Digi-Key	3M9467-ND	http://www.digikey.com/products/en?keywords=3M9467-ND
+J7	HEADER_1X3	HEADER_1X3	HEADER_1X3	logic-supply	1	3M	961103-6404-AR	Digi-Key	3M9448-ND	http://www.digikey.com/products/en?keywords=3M9448-ND
+J8	HEADER_1X3	HEADER_1X3	HEADER_1X3	logic-supply	1	3M	961103-6404-AR	Digi-Key	3M9448-ND	http://www.digikey.com/products/en?keywords=3M9448-ND
+R1	120R	R-US_R1206	R1206	rcl	1	Panasonic	ERJ-P08J121V	Digi-Key	P120ALCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P08J121V/P120ALCT-ND/525567
+R2	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R3	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R4	270R	R-US_R1206	R1206	rcl	1	Panasonic	ERJ-P08J271V	Digi-Key	P270ALCT-ND	https://www.digikey.com/product-search/en?keywords=P270ALCT-ND
+R5	100k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ104V	Digi-Key	P100KGCT-ND	https://www.digikey.com/product-search/en?keywords=P100KGCT-ND
+R6	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R7	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R8	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R9	100k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ104V	Digi-Key	P100KGCT-ND	https://www.digikey.com/product-search/en?keywords=P100KGCT-ND
+R10	120R	R-US_R1206	R1206	rcl	1	Panasonic	ERJ-P08J121V	Digi-Key	P120ALCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P08J121V/P120ALCT-ND/525567
+R11	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+R12	5.6k	R-US_R0603	R0603	rcl	1	Panasonic	ERJ-3GEYJ562V	Digi-Key	P5.6KGCT-ND	https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ562V/P5.6KGCT-ND/135238
+S3	SW_DIP-2P	SW_DIP-2P	DIPSWITCH-2P-SMD-1.27	logic-supply	1	CTS Electrocomponents	218-2LPST	Digi-Key	CT2182LPST-ND	http://www.digikey.com/products/en?keywords=CT2182LPST-ND
+TP1	TEST_POINT_PTH	TEST_POINT_PTH	TEST_POINT_PTH	logic-supply	1	na	na	na	na	na
+TP2	TEST_POINT_PTH	TEST_POINT_PTH	TEST_POINT_PTH	logic-supply	1	na	na	na	na	na
+P8	2x46 Header	Note:  Mount from TOP				???	???	Adafruit	Product ID: 706	https://www.adafruit.com/products/706
+P9	2x46 Header	Note:  Mount from TOP				???	???	Adafruit	Product ID: 706	https://www.adafruit.com/products/706
+6 x Shunt	1X2 Jumper	Note:  Ship Qty 6 with each board				3M	969102-0000-DA	Digi-Key	3M9580-ND	http://www.digikey.com/products/en?keywords=3M9580-ND
